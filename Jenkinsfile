@@ -6,7 +6,7 @@ pipeline {
     }
 
     tools {
-        terraform 'terraform-0.13.6'
+        terraform 'terraform-1.0.9'
     }
 
     environment {
